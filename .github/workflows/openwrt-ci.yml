@@ -179,9 +179,9 @@ jobs:
           # CONFIG_PACKAGE_luci-app-freifunk-diagnostics is not set
           # CONFIG_PACKAGE_luci-app-freifunk-policyrouting is not set
           # CONFIG_PACKAGE_luci-app-freifunk-widgets is not set
-          # CONFIG_PACKAGE_luci-app-frpc is not set
+            CONFIG_PACKAGE_luci-app-frpc=y
           # CONFIG_PACKAGE_luci-app-fwknopd is not set
-          # CONFIG_PACKAGE_luci-app-guest-wifi is not set
+            CONFIG_PACKAGE_luci-app-guest-wifi=y
           # CONFIG_PACKAGE_luci-app-haproxy-tcp is not set
           # CONFIG_PACKAGE_luci-app-hd-idle is not set
           # CONFIG_PACKAGE_luci-app-hnet is not set
