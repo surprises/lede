@@ -154,7 +154,7 @@ jobs:
               CONFIG_PACKAGE_luci-app-arpbind=y
           # CONFIG_PACKAGE_luci-app-asterisk is not set
           # CONFIG_PACKAGE_luci-app-attendedsysupgrade is not set
-              CONFIG_PACKAGE_luci-app-baidupcs-web=y
+          # CONFIG_PACKAGE_luci-app-baidupcs-web=y
           # CONFIG_PACKAGE_luci-app-bcp38 is not set
           # CONFIG_PACKAGE_luci-app-bird4 is not set
           # CONFIG_PACKAGE_luci-app-bird6 is not set
